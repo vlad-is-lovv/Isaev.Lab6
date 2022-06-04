@@ -41,7 +41,7 @@ for (int i = 0;i < Z.GetLength(0); i++ )
             val_j = j;
         }
     }
-
+    
     if (Z[i, i] != val)
     { 
      Z[i,val_j] = Z[i,i];

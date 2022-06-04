@@ -16,7 +16,6 @@ for (int i = 0; i < Q.Length; i++)
 Console.WriteLine($"Количество чисел: {quantity}. Cумма чисел: {sum}.");
 
 
-
 static void Show(int[] array)
 {
     for (var i = 0; i < array.Length; i++)
